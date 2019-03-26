@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+nav{
+	font-family: 'Homemade Apple', cursive;
+}
+
+.footer-hell{
+	background-image: linear-gradient(to bottom right, black, dimgrey);
+	color: white;
+	padding: 5%;
+}
+
+footer .credits{
+	font-family: 'Nothing You Could Do', cursive;
+}
+
+p{
+	font-family: 'Domine', serif;
+}
+
+.button-extra{
+	background-color: darkblue;
+	font-family: 'Germania One', cursive;
+	padding: 5%;
+	margin:5%;
+	font-size: 300%;
+}
+
+.main-section img{
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.button-positioner{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.vid-container{
+	position: relative;
+    width: 100%;
+    padding-bottom: 50%;
+}
+
+.surprise-vid {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.important{
+	margin:5%;
+	padding:5%;
+}
